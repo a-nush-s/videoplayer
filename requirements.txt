@@ -1,1 +1,7 @@
 Be sure to install Pillow and ffpyplayer to run this program. 
+
+Pillow: you can run this command in your terminal. 
+pip install pillow
+
+ffpyplayer: you can run this command in your terminal.
+pip install ffpyplayer
